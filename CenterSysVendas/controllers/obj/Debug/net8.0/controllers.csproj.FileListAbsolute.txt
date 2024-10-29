@@ -1,0 +1,17 @@
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\controllers.deps.json
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\controllers.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\controllers.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\helpers.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\models.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\models.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\bin\Debug\net8.0\helpers.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controll.03EE55E9.Up2Date
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\refint\controllers.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\controllers.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\controllers\obj\Debug\net8.0\ref\controllers.dll

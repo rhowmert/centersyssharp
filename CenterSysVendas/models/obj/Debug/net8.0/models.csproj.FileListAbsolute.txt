@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\bin\Debug\net8.0\models.deps.json
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\bin\Debug\net8.0\models.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\bin\Debug\net8.0\models.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\bin\Debug\net8.0\helpers.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\bin\Debug\net8.0\helpers.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.csproj.Up2Date
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\models.pdb
+C:\Users\Eduardo\Desktop\Teste Centersys\Fontes\CenterSysVendas\models\obj\Debug\net8.0\ref\models.dll
